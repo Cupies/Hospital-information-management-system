@@ -1,0 +1,9 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14,<4.0
+django-cors-headers>=3.13
+python-dotenv>=1.0
+Pillow>=9.0
+mysqlclient>=2.1        # 如果使用 MySQL，Windows 可能需先安装 MySQL 开发库；否则可使用 pymysql
+pymysql>=1.0            # 可选：纯 Python MySQL 驱动，二选一（mysqlclient 或 pymysql）
+whitenoise>=6.5         # 静态文件处理（部署用）
+gunicorn>=20.1          # 部署用（Windows 下通常不使用
