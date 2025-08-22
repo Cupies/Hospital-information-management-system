@@ -14,7 +14,7 @@
 安装与运行（建议）
 1. 后端（Django）
    - 建议使用 Python 3.8+，创建虚拟环境并激活。
-   - 安装依赖（若有 requirements.txt）：pip install -r requirements.txt
+   - 安装依赖：pip install -r requirements.txt
    - 配置数据库与 [`houduan.settings`](houduan/settings.py) 中的数据库连接。
    - 运行迁移并创建超级用户：
      ```bash
