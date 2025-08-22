@@ -1,5 +1,5 @@
 # Hospital Information Management System
-
+# 医院信息管理系统
 这是一个基于 Django 后端与 Vue 前端的医院信息管理系统样例。后端主要代码位于 [`myapp`](myapp) 应用和项目配置 [`houduan`](houduan) 中，前端位于 [`vue`](vue) 目录。
 
 主要文件与入口
