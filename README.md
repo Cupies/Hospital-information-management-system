@@ -55,4 +55,4 @@
 - 后端代码入口：[manage.py](http://_vscodecontentref_/10)  
 - 项目配置：[settings.py](http://_vscodecontentref_/11)（请查看其中数据库与 CORS 配置）  
 - 后端视图：[views.py](http://_vscodecontentref_/12)  
-- 前端说明
+- 前端说明：[README.md](http://_vscodecontentref_/13) 与 [vue.config.js](http://_vscodecontentref_/14)
